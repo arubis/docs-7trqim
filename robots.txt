@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-hsacgk.salamduit.sbs/sitemap.xml
